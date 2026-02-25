@@ -1,7 +1,7 @@
 # Animals Vocabulary
 
 ## Nuer → English
-**Animals → Le̱y** 
+**Le̱y → Animal** 
 - nyaaw → Cat
 - jio̱k → Dog
 - yaŋ → Cow
